@@ -1,0 +1,3 @@
+email_address,first_name,last_name,password,contact_number,address,city,postcode,card_number,expiry,security_code,holder_name
+toto20alias@outlook.com,John,Doe,Thisisatest123,+44020304843223,Flat 11 Sarah Crossroad,Lewischester,ME15 0JU,5333102411738512,130,666,John Doe
+toto22alias@outlook.com,Jane,Doe,Thisisatest123,+44020304843222,Flat 72 Richardson Tunnel,Lake Megan,SY7 8AQ,4888071936758077,228,843,Jane Doe
